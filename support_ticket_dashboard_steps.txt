@@ -1,0 +1,33 @@
+Steps Completed for Support Ticket Dashboard Project (Python + Streamlit)
+
+1. Created a project folder:
+   mkdir support-ticket-dashboard
+   cd support-ticket-dashboard
+
+2. Created a virtual environment:
+   python -m venv venv
+
+3. Activated the virtual environment (PowerShell or CMD):
+   # PowerShell (after changing execution policy)
+   venv\Scripts\Activate
+
+   # Or in Command Prompt (cmd.exe)
+   venv\Scripts\activate.bat
+
+4. Installed required dependencies:
+   pip install streamlit pandas
+
+5. Downloaded the project code (two options):
+   - Option A: Cloned from GitHub:
+       git clone https://github.com/dataprofessor/support-ticket-workflow.git
+       cd support-ticket-workflow
+
+   - Option B: Downloaded ZIP from GitHub, extracted, and moved into folder.
+
+6. Ran the Streamlit app:
+   streamlit run streamlit_app.py
+
+7. Opened the app in the browser at:
+   http://localhost:8501
+
+-- End of steps so far --
