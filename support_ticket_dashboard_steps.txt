@@ -17,10 +17,7 @@ Steps Completed for Support Ticket Dashboard Project (Python + Streamlit)
 4. Installed required dependencies:
    pip install streamlit pandas
 
-5. Downloaded the project code (two options):
-   - Option A: Cloned from GitHub:
-       git clone https://github.com/dataprofessor/support-ticket-workflow.git
-       cd support-ticket-workflow
+5. Downloaded the project code (options):
 
    - Option B: Downloaded ZIP from GitHub, extracted, and moved into folder.
 
